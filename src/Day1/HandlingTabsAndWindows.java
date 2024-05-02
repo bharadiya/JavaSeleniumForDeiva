@@ -4,7 +4,6 @@ import java.time.Duration;
 import java.util.ArrayList;
 import java.util.List;
 import java.util.Set;
-import java.util.concurrent.TimeUnit;
 
 import org.openqa.selenium.By;
 import org.openqa.selenium.Keys;
@@ -20,7 +19,7 @@ public class HandlingTabsAndWindows {
 		WebDriver driver = new ChromeDriver();
 		driver.get("https://testautomationpractice.blogspot.com");
 //		driver.manage().timeouts().implicitlyWait(Duration.ofSeconds(30));
-		WebDriverWait wait = new WebDriverWait(driver, Duration.ofSeconds(30), Duration.ofMillis(5));
+		WebDriverWait wait = new WebDriverWait(driver, Duration.ofSeconds(30));
 
 		WebElement wikipedia = driver.findElement(By.xpath("//input[@id='Wikipedia1_wikipedia-search-input']"));
 		wait.until(ExpectedConditions.elementToBeClickable(wikipedia));

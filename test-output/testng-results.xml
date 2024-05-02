@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results total="6" passed="6" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2024-05-02T15:21:34Z" name="Default suite" finished-at="2024-05-02T15:21:34Z" duration-ms="134">
+    <groups>
+    </groups>
+    <test started-at="2024-05-02T15:21:34Z" name="Default test" finished-at="2024-05-02T15:21:34Z" duration-ms="134">
+      <class name="LearnTestNG.BasicTest">
+        <test-method is-config="true" signature="checkBeforeTest()[pri:0, instance:LearnTestNG.BasicTest@60410cd]" started-at="2024-05-02T20:51:34Z" name="checkBeforeTest" finished-at="2024-05-02T20:51:34Z" duration-ms="21" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- checkBeforeTest -->
+        <test-method is-config="true" signature="checkBeforeMethodTest()[pri:0, instance:LearnTestNG.BasicTest@60410cd]" started-at="2024-05-02T20:51:34Z" name="checkBeforeMethodTest" finished-at="2024-05-02T20:51:34Z" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- checkBeforeMethodTest -->
+        <test-method signature="B123()[pri:0, instance:LearnTestNG.BasicTest@60410cd]" started-at="2024-05-02T20:51:34Z" name="B123" finished-at="2024-05-02T20:51:34Z" duration-ms="6" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- B123 -->
+        <test-method is-config="true" signature="checkAfterTest()[pri:0, instance:LearnTestNG.BasicTest@60410cd]" started-at="2024-05-02T20:51:34Z" name="checkAfterTest" finished-at="2024-05-02T20:51:34Z" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- checkAfterTest -->
+        <test-method signature="A()[pri:0, instance:LearnTestNG.BasicTest@60410cd]" started-at="2024-05-02T20:51:34Z" name="A" finished-at="2024-05-02T20:51:34Z" duration-ms="10" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- A -->
+        <test-method is-config="true" signature="checkBeforeMethodTest()[pri:0, instance:LearnTestNG.BasicTest@60410cd]" started-at="2024-05-02T20:51:34Z" name="checkBeforeMethodTest" finished-at="2024-05-02T20:51:34Z" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- checkBeforeMethodTest -->
+        <test-method is-config="true" signature="checkAfterTest()[pri:0, instance:LearnTestNG.BasicTest@60410cd]" started-at="2024-05-02T20:51:34Z" name="checkAfterTest" finished-at="2024-05-02T20:51:34Z" duration-ms="3" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- checkAfterTest -->
+        <test-method is-config="true" signature="checkBeforeMethodTest()[pri:0, instance:LearnTestNG.BasicTest@60410cd]" started-at="2024-05-02T20:51:34Z" name="checkBeforeMethodTest" finished-at="2024-05-02T20:51:34Z" duration-ms="5" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- checkBeforeMethodTest -->
+        <test-method signature="A235()[pri:0, instance:LearnTestNG.BasicTest@60410cd]" started-at="2024-05-02T20:51:34Z" name="A235" finished-at="2024-05-02T20:51:34Z" duration-ms="8" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- A235 -->
+        <test-method is-config="true" signature="checkAfterTest()[pri:0, instance:LearnTestNG.BasicTest@60410cd]" started-at="2024-05-02T20:51:34Z" name="checkAfterTest" finished-at="2024-05-02T20:51:34Z" duration-ms="2" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- checkAfterTest -->
+        <test-method signature="B()[pri:0, instance:LearnTestNG.BasicTest@60410cd]" started-at="2024-05-02T20:51:34Z" name="B" finished-at="2024-05-02T20:51:34Z" duration-ms="4" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- B -->
+        <test-method is-config="true" signature="checkBeforeMethodTest()[pri:0, instance:LearnTestNG.BasicTest@60410cd]" started-at="2024-05-02T20:51:34Z" name="checkBeforeMethodTest" finished-at="2024-05-02T20:51:34Z" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- checkBeforeMethodTest -->
+        <test-method is-config="true" signature="checkAfterTest()[pri:0, instance:LearnTestNG.BasicTest@60410cd]" started-at="2024-05-02T20:51:34Z" name="checkAfterTest" finished-at="2024-05-02T20:51:34Z" duration-ms="3" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- checkAfterTest -->
+        <test-method is-config="true" signature="checkBeforeMethodTest()[pri:0, instance:LearnTestNG.BasicTest@60410cd]" started-at="2024-05-02T20:51:34Z" name="checkBeforeMethodTest" finished-at="2024-05-02T20:51:34Z" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- checkBeforeMethodTest -->
+        <test-method signature="CA()[pri:0, instance:LearnTestNG.BasicTest@60410cd]" started-at="2024-05-02T20:51:34Z" name="CA" finished-at="2024-05-02T20:51:34Z" duration-ms="6" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- CA -->
+        <test-method is-config="true" signature="checkBeforeMethodTest()[pri:0, instance:LearnTestNG.BasicTest@60410cd]" started-at="2024-05-02T20:51:34Z" name="checkBeforeMethodTest" finished-at="2024-05-02T20:51:34Z" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- checkBeforeMethodTest -->
+        <test-method is-config="true" signature="checkAfterTest()[pri:0, instance:LearnTestNG.BasicTest@60410cd]" started-at="2024-05-02T20:51:34Z" name="checkAfterTest" finished-at="2024-05-02T20:51:34Z" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- checkAfterTest -->
+        <test-method signature="DB()[pri:0, instance:LearnTestNG.BasicTest@60410cd]" started-at="2024-05-02T20:51:34Z" name="DB" finished-at="2024-05-02T20:51:34Z" duration-ms="3" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- DB -->
+        <test-method is-config="true" signature="checkAfterTest()[pri:0, instance:LearnTestNG.BasicTest@60410cd]" started-at="2024-05-02T20:51:34Z" name="checkAfterTest" finished-at="2024-05-02T20:51:34Z" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- checkAfterTest -->
+        <test-method is-config="true" signature="checkAfterMethodTest()[pri:0, instance:LearnTestNG.BasicTest@60410cd]" started-at="2024-05-02T20:51:34Z" name="checkAfterMethodTest" finished-at="2024-05-02T20:51:34Z" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- checkAfterMethodTest -->
+      </class> <!-- LearnTestNG.BasicTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
